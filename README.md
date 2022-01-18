@@ -9,6 +9,10 @@ output a list of times where all the coworkers are available.
 # coordinateCalendars
 
 This app is written in JavaScript.
-to run this app, type at prompt:
 
+to run this app, type at prompt
+node coordinateCalendars
+followed by users' names enclosed in quotes and separated by a blank
+
+for example:
 node coordinateCalendars 'Emily' 'John' 'Nick'
