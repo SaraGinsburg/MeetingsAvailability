@@ -18,9 +18,6 @@
 //
 //   console.log(names);
 // };
-//
-//
-//
 
 let users = [
   {
