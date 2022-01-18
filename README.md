@@ -13,7 +13,7 @@ This app is written in JavaScript.
 Clone the repository.
 Ensure Node is installed or download Node from nodejs.org
 
-To run this app, type at prompt:
+To run this app, type at the command line prompt:
 node coordinateCalendars
 followed by users' names, enclosed in quotes and separated by a blank.
 
